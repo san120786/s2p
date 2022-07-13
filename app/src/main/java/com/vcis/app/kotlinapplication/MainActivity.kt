@@ -56,6 +56,9 @@ class MainActivity : AppCompatActivity() {
                 || super.onSupportNavigateUp()
     }
 
-    // testing
+    fun testingMethed(){
+        // testing
+    }
+
 
 }
